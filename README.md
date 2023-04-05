@@ -2,8 +2,11 @@
 - 👀 I’m interested in Data Science , Data Engineering and Business Intelligence
 - 🌱 I’m currently studying Data Science at Master's level
 - 💞️ I am looking to collaborate on Data Mining projects, ETL/ELT processes and creating Data Warehouses
-- Extensive experience in agile methodology and activity management in Scrum model
+- 💞️ Extensive experience in agile methodology and activity management in Scrum model
+- 
 - 📫 How to reach me elysiario@gmail.com or https://www.linkedin.com/in/elysiario/
+
+![Nome da imagem](caminho/para/a/imagem.png)
 
 <!---
 Elysiario/Elysiario is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
